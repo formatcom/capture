@@ -47,7 +47,7 @@ $ sox mic.wav -n noiseprof noise.prof
 $ sox mic.wav mic.out.wav noisered noise.prof 0.25
 ~~~
 
-### Crear el video final
+### Generar video final [modo VBR, es decir variable bitrate]
 
 ~~~
 
