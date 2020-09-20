@@ -1,6 +1,6 @@
 ## Configuración creada para mi canal lowlevel
 
-### documentación oficial
+### Documentación oficial
 
 - https://ffmpeg.org/ffmpeg-all.html
 - https://ffmpeg.org/ffmpeg-devices.html#lavfi
